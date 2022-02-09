@@ -4,10 +4,11 @@ const { saveDev } = require('./inquirer');
 const { addDev,
     listDevs,
     infoMWC,
-    addJson
+    addJson,
+    fixedMenu
 } = require('../controllers/developer');
 
-program.version('0.0.1').description('Hackathon MWC 2022 | BackEnd v0.0.1');
+program.version('0.0.1').description(fixedMenu());
 
 //TODO ✅ Task 2 → Insert the .json data into a database (Link to the json in the statement). [x]
 
