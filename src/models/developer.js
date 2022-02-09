@@ -18,7 +18,7 @@ const developerSchema = new Schema({
         ENUM: ['Front', 'Back', 'Mobile', 'Data'],
     },
     phone: {
-        type: Number,
+        type: String,
         required: true,
         unique: true
     },

@@ -2,10 +2,34 @@ const inquirer = require('inquirer');
 const { program } = require('commander');
 const { saveDev } = require('./inquirer');
 const { addDev,
-        listDevs
- } = require('../controllers/developer');
+    listDevs,
+    infoMWC,
+    addJson
+} = require('../controllers/developer');
 
 program.version('0.0.1').description('Hackathon MWC 2022 | BackEnd v0.0.1');
+
+//TODO ✅ Task 2 → Insert the .json data into a database (Link to the json in the statement). [x]
+
+program
+    .command('json')
+    .alias('j')
+    .description('Add the developers that are in the Json to the database')
+    .action(async () => {
+        console.clear();
+        addJson();
+    });
+
+//TODO ✅ Task 3 → Generate a CLI command to display the information of the MWC (Days that will be available). [x]
+
+program
+    .command('days')
+    .alias('d')
+    .description('List all days')
+    .action(async () => {
+        console.clear();
+        infoMWC();
+    });
 
 //TODO ✅ Task 4 → Generate a CLI command that displays the list of developers. [x]
 

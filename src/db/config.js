@@ -5,7 +5,7 @@ require('dotenv').config();
 const dbConection = async () => {
 
     try {
-        await connect(process.env.MONGODB_CNN);
+        await connect(process.env.MONGODB_CNN || 'mongodb://localhost:27017/developers');
     } catch (error) {
 
         console.log(error)
