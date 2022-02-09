@@ -2,6 +2,8 @@
 
 _Proyecto realizado para participar en la fase online del hackathon Mobile Word Congress 2022 celebrado en Barcelona, ​​cuyas fechas para realizar el proyecto son del 7 al 13 de febrero._
 
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc22back.png)
+
 ## Traducciones 💬
 _Este archivo README también está disponible en otros idiomas:_
 - [Catalán](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/README-cat.md)
