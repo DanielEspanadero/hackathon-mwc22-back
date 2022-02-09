@@ -1,8 +1,11 @@
 {
-  "name": "HACKATHON MWC 2022 | BACKEND",
+  "name": "HACKATHON-MWC-22-BACK",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "mwc": "./src/app.js"
+  },
   "scripts": {
     "start": "node src/app",
     "test": "echo \"Error: no test specified\" && exit 1"

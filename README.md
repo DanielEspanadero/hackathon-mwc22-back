@@ -32,40 +32,42 @@ npm install
 
 ⚠️ BEFORE STARTING, REMEMBER TO HAVE THE MONGODB SERVER STARTED ⚠️
 
+_The first command that you have to execute in the project is (If this command is not executed, the word mwc should be replaced by npm start):_
+```
+npm link
+```
+
 _To see a list of all options and commands use the command:_
 ```
-npm start
-```
-```
-npm start help
+mwc help
 ```
 _Add the developers that are in the Json to the database (This command can be used only once):_
 ```
-npm start json
+mwc json
 ```
 ```
-npm start j
+mwc j
 ```
 _Comando para listar los dias en los que se celebra en Mobile Word Congress 2022_
 ```
-npm start days
+mwc days
 ```
 ```
-npm start d
+mwc d
 ```
 _Command to list all developers:_
 ```
-npm start list
+mwc list
 ```
 ```
-npm start l
+mwc l
 ```
 _Add a new developer to the database:_
 ```
-npm start add
+mwc add
 ```
 ```
-npm start a
+mwc a
 ```
 
 ## Running the tests ⚙️

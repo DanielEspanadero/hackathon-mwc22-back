@@ -32,40 +32,41 @@ npm install
 
 ⚠️ ABANS DE COMENÇAR, RECORDA TENIR INICIAT EL SERVIDOR DE MONGODB ⚠️
 
+_La primera ordre que has d'executar en el projecte és (Si no s'executa aquesta ordre, caldria substituir la paraula mwc per npm start a les ordres):_
+````
+npm link
+````
 _Per veure una llista de totes les opcions i ordres, useu l'ordre:_
 ````
-npm start
-````
-````
-npm start help
+mwc help
 ````
 _Afegiu els developers que estan al Json a la base de dades (Aquesta ordre només es pot usar una vegada):_
 ````
-npm start json
+mwc json
 ````
 ````
-npm start j
+mwc j
 ````
 _Comando per llistar els dies en què se celebra a Mobile Word Congress 2022_
 ````
-npm start days
+mwc days
 ````
 ````
-npm start d
+mwc d
 ````
 _Comanda per llistar tots els desenvolupadors:_
 ````
-npm start list
+mwc list
 ````
 ````
-npm start l
+mwc l
 ````
 _Afegir un nou desenvolupador a la base de dades:_
 ````
-npm start add
+mwc add
 ````
 ````
-npm start a
+mwc a
 ````
 
 ## Executant les proves ⚙️

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { dbConection } = require('./db/config');
 require('./helpers/commands');
 
