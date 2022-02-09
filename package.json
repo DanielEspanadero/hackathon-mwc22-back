@@ -1,0 +1,28 @@
+{
+  "name": "HACKATHON MWC 2022 | BACKEND",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielEspanadero/hackathon-mwc22-back.git"
+  },
+  "keywords": [],
+  "author": "Daniel Españadero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielEspanadero/hackathon-mwc22-back/issues"
+  },
+  "homepage": "https://github.com/DanielEspanadero/hackathon-mwc22-back#readme",
+  "dependencies": {
+    "colorette": "^2.0.16",
+    "commander": "^9.0.0",
+    "dotenv": "^16.0.0",
+    "inquirer": "^8.2.0",
+    "mongoose": "^6.2.1"
+  }
+}
