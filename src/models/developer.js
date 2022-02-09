@@ -5,11 +5,11 @@ const { Schema, model } = require('mongoose');
 const developerSchema = new Schema({
     name: {
         type: String,
-        required: true
+        required: [true, 'Name is required']
     },
     email: {
         type: String,
-        required: true,
+        required: [true, 'You need to enter a valid email'],
         unique:true
     },
     category: {
@@ -20,7 +20,9 @@ const developerSchema = new Schema({
     phone: {
         type: String,
         required: true,
-        unique: true
+        unique: [true, 'That number is already registered'],
+        min: [4, 'The number cannot be less than 4 characters'],
+        max: [12, 'The number cannot have more than 12 characters']
     },
     date: {
         type: String,

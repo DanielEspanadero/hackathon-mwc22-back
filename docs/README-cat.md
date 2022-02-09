@@ -62,10 +62,10 @@ npm start l
 ````
 _Afegir un nou desenvolupador a la base de dades:_
 ````
-npm start save
+npm start add
 ````
 ````
-npm start s
+npm start a
 ````
 
 ## Executant les proves ⚙️

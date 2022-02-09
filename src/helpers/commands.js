@@ -46,9 +46,9 @@ program
 //TODO ✅ Task 5 → Generate a CLI command that allows you to add a new developer and update the database. [x]
 
 program
-    .command('save')
-    .alias('s')
-    .description('Save a new developer in the database.')
+    .command('add')
+    .alias('a')
+    .description('Add a new developer in the database.')
     .action(async () => {
         console.clear();
         const data = await inquirer.prompt(saveDev);
