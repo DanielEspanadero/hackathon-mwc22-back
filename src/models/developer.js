@@ -1,6 +1,6 @@
 const { Schema, model } = require('mongoose');
 const colorette = require('colorette');
-const validator = require('validator')
+const validator = require('validator');
 
 //TODO ✅ Task 1 → Create a developer model that contains this information: Name, Email, Category ( Front, Back, Mobile, Data), Telephone, Days to attend the mobile ( 28 Feb, 1 -3 March). [x]
 
