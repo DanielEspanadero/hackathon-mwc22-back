@@ -1,0 +1,35 @@
+{
+  "name": "HACKATHON-MWC-22-BACK",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "mwc": "./src/app.js"
+  },
+  "scripts": {
+    "start": "node src/app",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielEspanadero/hackathon-mwc22-back.git"
+  },
+  "keywords": [],
+  "author": "Daniel Españadero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielEspanadero/hackathon-mwc22-back/issues"
+  },
+  "homepage": "https://github.com/DanielEspanadero/hackathon-mwc22-back#readme",
+  "dependencies": {
+    "colorette": "^2.0.16",
+    "commander": "^9.0.0",
+    "dotenv": "^16.0.0",
+    "inquirer": "^8.2.0",
+    "mongoose": "^6.2.1",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
