@@ -38,10 +38,12 @@ _La primera ordre que has d'executar en el projecte és (Si no s'executa aquesta
 ````
 npm link
 ````
+
 _Per veure una llista de totes les opcions i ordres, useu l'ordre:_
 ````
 mwc help
 ````
+
 _Afegiu els developers que estan al Json a la base de dades (Aquesta ordre només es pot usar una vegada):_
 ````
 mwc json
@@ -49,6 +51,9 @@ mwc json
 ````
 mwc j
 ````
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc%20json.png)
+
 _Comando per llistar els dies en què se celebra a Mobile Word Congress 2022_
 ````
 mwc days
@@ -56,6 +61,9 @@ mwc days
 ````
 mwc d
 ````
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-days.png)
+
 _Comanda per llistar tots els desenvolupadors:_
 ````
 mwc list
@@ -63,6 +71,9 @@ mwc list
 ````
 mwc l
 ````
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-list.png)
+
 _Afegir un nou desenvolupador a la base de dades:_
 ````
 mwc add
@@ -71,11 +82,10 @@ mwc add
 mwc a
 ````
 
-## Executant les proves ⚙️
-_Per realitzar les proves unitàries de l'aplicació he utilitzat [jest](https://github.com/facebook/jest), si vols executar-les has d'inserir la següent ordre:_
-````
-npm run test
-````
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-add.png)
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-added.png)
+
 
 ## Construït amb 🛠️
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - Llenguatge de programació utilitzat.
@@ -88,6 +98,7 @@ npm run test
 * [Colorette](https://github.com/jorgebucaran/colorette) - Biblioteca per afegir colors a la consola.
 * [Commander](https://www.npmjs.com/package/commander) - Biblioteca per afegir ordres personalitzades a la consola.
 * [Dotenv](https://www.npmjs.com/package/dotenv) - Biblioteca per crear variables d'entorn.
+* [Validator](https://www.npmjs.com/package/validator) - Llibreria per crear validacions.
 
 ## Versionat 📌
 _He utilitzat versions semàntiques [SemVer](http://semver.org/) per a aquesta aplicació. Per a totes les versions disponibles, consulta les [etiquetes en aquest repositori](https://github.com/DanielEspanadero/hackathon-mwc22-back/tags)._

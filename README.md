@@ -46,6 +46,7 @@ mwc
 ```
 mwc help
 ```
+
 _Add the developers that are in the Json to the database (This command can be used only once):_
 ```
 mwc json
@@ -53,6 +54,9 @@ mwc json
 ```
 mwc j
 ```
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc%20json.png)
+
 _Comando para listar los dias en los que se celebra en Mobile Word Congress 2022_
 ```
 mwc days
@@ -60,6 +64,9 @@ mwc days
 ```
 mwc d
 ```
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-days.png)
+
 _Command to list all developers:_
 ```
 mwc list
@@ -67,6 +74,9 @@ mwc list
 ```
 mwc l
 ```
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-list.png)
+
 _Add a new developer to the database:_
 ```
 mwc add
@@ -74,6 +84,10 @@ mwc add
 ```
 mwc a
 ```
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-add.png)
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-added.png)
 
 
 ## Built with 🛠️

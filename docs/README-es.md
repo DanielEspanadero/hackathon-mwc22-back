@@ -38,10 +38,12 @@ _El primer comando que tienes que ejecutar en el proyecto es (Si no se ejecuta e
 ```
 npm link
 ```
+
 _Para ver una lista de todas las opciones y comandos, use el comando:_
 ```
 mwc help
 ```
+
 _Agregue los developers que están en el Json a la base de datos (Este comando solo se puede usar una vez):_
 ```
 mwc json
@@ -49,6 +51,9 @@ mwc json
 ```
 mwc j
 ```
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc%20json.png)
+
 _Comando para listar los dias en los que se celebra en Mobile Word Congress 2022_
 ```
 mwc days
@@ -56,6 +61,9 @@ mwc days
 ```
 mwc d
 ```
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-days.png)
+
 _Comando para listar todos los desarrolladores:_
 ```
 mwc list
@@ -63,6 +71,9 @@ mwc list
 ```
 mwc l
 ```
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-list.png)
+
 _Añadir un nuevo desarrollador a la base de datos:_
 ```
 mwc add
@@ -71,11 +82,10 @@ mwc add
 mwc a
 ```
 
-## Ejecutando las pruebas ⚙️
-_Para realizar las pruebas unitarias de la aplicación he utilizado [jest](https://github.com/facebook/jest), si quieres ejecutarlas tienes que insertar el siguiente comando:_
-```
-npm run test
-```
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-add.png)
+
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-added.png)
+
 
 ## Construido con 🛠️
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - Lenguaje de programación utilizado.
@@ -88,6 +98,7 @@ npm run test
 * [Colorette](https://github.com/jorgebucaran/colorette) - Biblioteca para agregar colores a la consola.
 * [Commander](https://www.npmjs.com/package/commander) - Biblioteca para agregar comandos personalizados en la consola.
 * [Dotenv](https://www.npmjs.com/package/dotenv) - Biblioteca para crear variables de entorno.
+* [Validator](https://www.npmjs.com/package/validator) - Librería para crear validaciones.
 
 ## Versionado 📌
 _He utilizado versiones semánticas [SemVer](http://semver.org/) para esta aplicación. Para todas las versiones disponibles, consulta las [etiquetas en este repositorio](https://github.com/DanielEspanadero/hackathon-mwc22-back/tags)._
