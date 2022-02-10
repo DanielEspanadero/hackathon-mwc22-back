@@ -14,7 +14,7 @@ _Estas instrucciones le permitirán obtener una copia de trabajo del proyecto en
 
 ### Requisitos previos 📋
 _Para que el proyecto funcione correctamente, se recomienda tener una serie de programas instalados y configurados adecuadamente:_
-- [Visual Studio Code] (https://code.visualstudio.com/download)
+- [Visual Studio Code](https://code.visualstudio.com/download)
 - [Node.js y npm](https://nodejs.org/es/)
 - [MongoDB](https://docs.mongodb.com/manual/installation/)
 - [MongoDB Compass](https://www.mongodb.com/products/compass)
@@ -92,7 +92,7 @@ mwc a
 * [Node.js](https://nodejs.org/es/docs/) - Entorno para ejecutar JavaScript del lado del servidor.
 * [NPM](https://www.npmjs.com/) - Administrador de dependencias.
 * [MongoDB](https://docs.mongodb.com/) - Base de datos utilizada para el proyecto.
-* [Mangosta](https://mongoosejs.com/docs/guide.html) - MongoDB ODM.
+* [Mongoose](https://mongoosejs.com/docs/guide.html) - MongoDB ODM.
 * [Jest](https://jestjs.io/docs/getting-started) - Biblioteca que nos permite escribir y ejecutar pruebas.
 * [Inquirer](https://github.com/SBoudrias/Inquirer.js) - Biblioteca para crear una consola interactiva.
 * [Colorette](https://github.com/jorgebucaran/colorette) - Biblioteca para agregar colores a la consola.

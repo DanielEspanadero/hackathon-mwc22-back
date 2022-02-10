@@ -57,7 +57,7 @@ mwc j
 
 ![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc%20json.png)
 
-_Comando para listar los dias en los que se celebra en Mobile Word Congress 2022_
+_Command to list the days in which it is celebrated in Mobile Word Congress 2022_
 ```
 mwc days
 ```

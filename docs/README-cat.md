@@ -14,7 +14,7 @@ _Aquestes instruccions us permetran obtenir una còpia de treball del projecte a
 
 ### Requisits previs 📋
 _Perquè el projecte funcioni correctament, es recomana tenir una sèrie de programes instal·lats i configurats adequadament:_
-- [Visual Studio Code] (https://code.visualstudio.com/download)
+- [Visual Studio Code](https://code.visualstudio.com/download)
 - [Node.js i npm](https://nodejs.org/es/)
 - [MongoDB](https://docs.mongodb.com/manual/installation/)
 - [MongoDB Compass](https://www.mongodb.com/products/compass)
@@ -92,7 +92,7 @@ mwc a
 * [Node.js](https://nodejs.org/es/docs/) - Entorn per executar JavaScript del costat del servidor.
 * [NPM](https://www.npmjs.com/) - Administrador de dependències.
 * [MongoDB](https://docs.mongodb.com/) - Base de dades utilitzada per al projecte.
-* [Mangosta](https://mongoosejs.com/docs/guide.html) - MongoDB ODM.
+* [Mongoose](https://mongoosejs.com/docs/guide.html) - MongoDB ODM.
 * [Jest](https://jestjs.io/docs/getting-started) - Biblioteca que ens permet escriure i executar proves.
 * [Inquirer](https://github.com/SBoudrias/Inquirer.js) - Biblioteca per crear una consola interactiva.
 * [Colorette](https://github.com/jorgebucaran/colorette) - Biblioteca per afegir colors a la consola.
