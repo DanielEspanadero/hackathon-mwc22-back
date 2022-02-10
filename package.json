@@ -26,6 +26,7 @@
     "commander": "^9.0.0",
     "dotenv": "^16.0.0",
     "inquirer": "^8.2.0",
-    "mongoose": "^6.2.1"
+    "mongoose": "^6.2.1",
+    "validator": "^13.7.0"
   }
 }

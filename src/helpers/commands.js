@@ -30,6 +30,7 @@ program
     .action(async () => {
         console.clear();
         infoMWC();
+        console.log(saveDev)
     });
 
 //TODO ✅ Task 4 → Generate a CLI command that displays the list of developers. [x]
