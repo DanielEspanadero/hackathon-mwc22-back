@@ -41,6 +41,9 @@ npm link
 
 _To see a list of all options and commands use the command:_
 ```
+mwc
+```
+```
 mwc help
 ```
 _Add the developers that are in the Json to the database (This command can be used only once):_
@@ -72,11 +75,6 @@ mwc add
 mwc a
 ```
 
-## Running the tests ⚙️
-_To carry out the unit tests of the application I have used [jest](https://github.com/facebook/jest), if you want to execute them you have to insert the following command:_
-```
-npm run test
-```
 
 ## Built with 🛠️
 * [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - Programming language used.
@@ -89,6 +87,7 @@ npm run test
 * [Colorette](https://github.com/jorgebucaran/colorette) - Library to add colors to the console.
 * [Commander](https://www.npmjs.com/package/commander) - Library to add custom commands in the console.
 * [Dotenv](https://www.npmjs.com/package/dotenv) - Library to create environment variables.
+* [Validator](https://www.npmjs.com/package/validator) - Library to create validations.
 
 ## Versioned 📌
 _I have used semantic versioning [SemVer](http://semver.org/) for this application. For all available versions, check out the [tags in this repository](https://github.com/DanielEspanadero/hackathon-mwc22-back/tags)._
