@@ -10,7 +10,6 @@ const dbConection = async () => {
 
         console.log(error)
         throw new Error('Error when starting the database');
-
     }
 };
 
