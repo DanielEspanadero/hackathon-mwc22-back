@@ -2,12 +2,12 @@
 
 _Projecte realitzat per participar a la fase online del hackathon Mobile Word Congress 2022 celebrat a Barcelona, ​​les dates per realitzar el projecte són del 7 al 13 de febrer._
 
-![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc22back.png)
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/master/docs/mwc22back.png)
 
 ## Traduccions 💬
 _Aquest fitxer README també està disponible en altres llengues:_
-- [Castellà](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/README-es.md)
-- [Anglès](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/README.md)
+- [Castellà](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/master/docs/README-es.md)
+- [Anglès](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/master/README.md)
 
 ## Començant 🚀
 _Aquestes instruccions us permetran obtenir una còpia de treball del projecte a la vostra màquina local per a fins de desenvolupament i prova._
@@ -52,7 +52,7 @@ mwc json
 mwc j
 ````
 
-![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc%20json.png)
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/master/docs/mwc%20json.png)
 
 _Comando per llistar els dies en què se celebra a Mobile Word Congress 2022_
 ````
@@ -62,7 +62,7 @@ mwc days
 mwc d
 ````
 
-![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-days.png)
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/master/docs/mwc-days.png)
 
 _Comanda per llistar tots els desenvolupadors:_
 ````
@@ -72,7 +72,7 @@ mwc list
 mwc l
 ````
 
-![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-list.png)
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/master/docs/mwc-list.png)
 
 _Afegir un nou desenvolupador a la base de dades:_
 ````
@@ -82,9 +82,9 @@ mwc add
 mwc a
 ````
 
-![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-add.png)
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/master/docs/mwc-add.png)
 
-![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/docs/mwc-added.png)
+![Demo](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/master/docs/mwc-added.png)
 
 
 ## Construït amb 🛠️
@@ -107,7 +107,7 @@ _He utilitzat versions semàntiques [SemVer](http://semver.org/) per a aquesta a
 * [Daniel Españadero Fernández](https://github.com/DanielEspanadero) - *Projecte complet*
 
 ## Llicència 📄
-_Aquest projecte està llicenciat sota la Llicència MIT - vegeu el fitxer [LLICÈNCIA](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/develop/LICENSE) per a més detalls._
+_Aquest projecte està llicenciat sota la Llicència MIT - vegeu el fitxer [LLICÈNCIA](https://github.com/DanielEspanadero/hackathon-mwc22-back/blob/master/LICENSE) per a més detalls._
 
 
 ## Notes sobre la realització del projecte 📝
